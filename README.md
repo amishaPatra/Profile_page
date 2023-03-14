@@ -1,4 +1,4 @@
-# assignment_flutter
+# ProfilePage_flutter
 
 A new Flutter project.
 
